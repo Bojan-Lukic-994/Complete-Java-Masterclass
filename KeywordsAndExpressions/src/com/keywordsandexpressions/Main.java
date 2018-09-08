@@ -9,7 +9,7 @@ public class Main {
 
         //one mile = 1.609344 km
         //example of an expression
-        double km = (100 * 1.609344);
+        double km = (20 * 1.609344);
 
         int number3 = 40;
         if (number3 == 30) {
