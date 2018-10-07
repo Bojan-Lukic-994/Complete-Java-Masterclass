@@ -12,42 +12,46 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Exercises$SwitchExerciseWithChar.ic" NAME="SwitchExerciseWithChar Coverage Results" MODIFIED="1538904466133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-155381255">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="18" />
+          <entry key="java" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5431" />
+          <entry key="java" value="5914" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5431" />
+          <entry key="JAVA" value="5914" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,6 +80,8 @@
         <option value="$PROJECT_DIR$/src/MinToYearDay.java" />
         <option value="$PROJECT_DIR$/src/EqualPrint.java" />
         <option value="$PROJECT_DIR$/src/PlayPet.java" />
+        <option value="$PROJECT_DIR$/src/SwitchExerciseWithChar.java" />
+        <option value="$PROJECT_DIR$/src/DayOfTheWeekExerciseSwitchIfElse.java" />
       </list>
     </option>
   </component>
@@ -92,6 +98,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,11 +115,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538683434554" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538904646924" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -130,7 +136,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondsAndMinutes">
+  <component name="RunManager" selected="Application.DayOfTheWeekExerciseSwitchIfElse">
+    <configuration name="DayOfTheWeekExerciseSwitchIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfTheWeekExerciseSwitchIfElse" />
+      <module name="Exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FeetInchCent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FeetInchCent" />
       <module name="Exercises" />
@@ -138,15 +151,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PosNegZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PosNegZero" />
+    <configuration name="SecondsAndMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutes" />
       <module name="Exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondsAndMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutes" />
+    <configuration name="SwitchExerciseWithChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchExerciseWithChar" />
       <module name="Exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,17 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PosNegZero" />
       <item itemvalue="Application.megaBytesAndKB" />
       <item itemvalue="Application.FeetInchCent" />
       <item itemvalue="Application.SecondsAndMinutes" />
+      <item itemvalue="Application.SwitchExerciseWithChar" />
+      <item itemvalue="Application.DayOfTheWeekExerciseSwitchIfElse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayOfTheWeekExerciseSwitchIfElse" />
+        <item itemvalue="Application.SwitchExerciseWithChar" />
         <item itemvalue="Application.SecondsAndMinutes" />
         <item itemvalue="Application.FeetInchCent" />
         <item itemvalue="Application.megaBytesAndKB" />
-        <item itemvalue="Application.PosNegZero" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +210,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -208,6 +223,7 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.3281412" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -310,17 +326,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PlayPat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PlayPat.java" />
     <entry file="file://$PROJECT_DIR$/src/PlayPet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchExerciseWithChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOfTheWeekExerciseSwitchIfElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
         </state>
       </provider>
     </entry>
