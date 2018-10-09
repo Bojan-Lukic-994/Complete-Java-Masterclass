@@ -19,7 +19,7 @@ public class DaysInMonthLeapYear {
     public static int getDaysInMonth(int month, int year) {
 
         //checks if months are between 1 and 12 and if year is between by 1 and 9999
-        if ((month < 1) || (month > 12) || (year < 1) || (year > 9999) {
+        if ((month < 1) || (month > 12) || (year < 1) || (year > 9999)) {
             return -1;
         }
 
