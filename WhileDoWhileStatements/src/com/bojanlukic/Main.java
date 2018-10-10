@@ -29,7 +29,7 @@ public class Main<num> {
         } while (sum != 6);
                                     */
 
-                                //EXERCiSE 1
+                                //EXERCISE
 
         int num = 5;
         int finishNum = 10;
