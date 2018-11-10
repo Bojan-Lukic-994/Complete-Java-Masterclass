@@ -11,9 +11,9 @@ public class Groceries {
         return groceryList;
     }
 
-    //adds item to the grocery list
-    public void addGrocery(String item) {
-        groceryList.add(item);
+    //adds grocery to the grocery list
+    public void addGrocery(String grocery) {
+        groceryList.add(grocery);
     }
 
     //prints out the groceries
@@ -25,8 +25,8 @@ public class Groceries {
     }
 
     //modifies an item in the grocery list
-    public void modifyGrocery(String curentItem, String newItem) {
-        int position = findGrocery(curentItem);
+    public void modifyGrocery(String thisGrocery, String newItem) {
+        int position = findGrocery(thisGrocery);
         if (position >= 0) {
             modifyGrocery(position, newItem);
         }
