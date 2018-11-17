@@ -50,9 +50,18 @@ public class Main {
         //initiates new Team - team (with parameters name - Atlanta, players - 53)
         Team team = new Team("Atlanta", 53);
 
-        //prints out given team
+        //prints out team
         System.out.println(team);
         saveItem(team);
+
+        System.out.println("------------------------------------");
+
+        //initiates new Team - team2 (with parameters name - Tampa Bay, players - 48)
+        Team team2 = new Team("Tampa Bay", 48);
+
+        //prints out team2
+        System.out.println(team2);
+        saveItem(team2);
     }
 
 
